@@ -1,0 +1,8 @@
+streamlit
+openai
+gtts
+pygame
+python-dotenv
+sounddevice
+scipy
+faster-whisper
